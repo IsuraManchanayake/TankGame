@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 64a3335b41d2eb047aac88860f7072bc
+timeCreated: 1485803788
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - wall: {fileID: 1000011749239338, guid: cab68af5f0c4bd245b9c5983b496923f, type: 2}
+  - stone: {fileID: 1000011749239338, guid: cab68af5f0c4bd245b9c5983b496923f, type: 2}
+  - water: {fileID: 1000011184574942, guid: d9adb2997b2cc6d488f1e5dd9d05a86a, type: 2}
+  - health: {fileID: 1000010209109854, guid: d1f8d0803382a24479a98b15b215b194, type: 2}
+  - coin: {fileID: 1000010491872654, guid: 3c5ef5d2124d05547a716f2ea5888f88, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
